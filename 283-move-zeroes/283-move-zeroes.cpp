@@ -1,4 +1,4 @@
-#pragma Operations("O2")
+#pragma GCC optimize("O2")
 
 class Solution {
 public:
