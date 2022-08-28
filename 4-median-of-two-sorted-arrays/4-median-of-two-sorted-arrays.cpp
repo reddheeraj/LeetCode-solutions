@@ -1,4 +1,4 @@
-
+#pragma GCC optimize("O2")
 double find_median_of_array(vector<int> n) {
     sort(n.begin(), n.end());
     int size = n.size();
