@@ -1,4 +1,4 @@
-//#pragma GCC optimizer("O2")
+#pragma GCC optimizer("O2")
 class Solution {
     public:
         bool isPalindrome(int x) {
