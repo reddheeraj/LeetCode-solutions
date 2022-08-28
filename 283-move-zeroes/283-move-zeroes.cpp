@@ -1,3 +1,5 @@
+#pragma Operations("O2")
+
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
