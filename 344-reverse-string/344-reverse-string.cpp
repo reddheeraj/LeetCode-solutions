@@ -1,3 +1,5 @@
+#pragma GCC optimize("O2")
+
 class Solution {
 public:
     void reverseString(vector<char>& s) {
