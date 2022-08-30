@@ -1,4 +1,5 @@
 #include<cstring>
+#pragma GCC optimizer("O2")
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
