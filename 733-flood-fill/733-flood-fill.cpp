@@ -1,4 +1,4 @@
-
+#pragma GCC optimize("O2")
 vector<vector<int>> dfs(vector<vector<int>>& image, int sr, int sc, int oldcolor) {
     vector<vector<int>> directions = {{1,0},{-1,0},{0,1},{0,-1}};
     for(int i = 0; i < 4; i++) {
