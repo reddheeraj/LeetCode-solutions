@@ -1,4 +1,3 @@
-#pragma GCC optimize("O2")
 int neighbours(vector<vector<int>> &grid,int i,int j) {
     int count = 0;
     if (i > 0 && grid[i-1][j])
