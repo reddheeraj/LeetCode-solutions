@@ -1,3 +1,4 @@
+#pragma GCC optimize("O2")
 int solve(vector<vector<char>>& grid, int i, int j, vector<vector<bool>>& seen) {
     if(i < 0 || j < 0 || i >= grid.size() || j >= grid[0].size() || seen[i][j] || grid[i][j] == '0') return 0;
     //cout<<grid[i][j]<<" "<<endl;
