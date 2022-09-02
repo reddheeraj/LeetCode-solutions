@@ -1,4 +1,3 @@
-#pragma GCC optimize("O2")
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
