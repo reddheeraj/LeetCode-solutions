@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#pragma GCC optimize("O2")
 class Solution {
 public:
     bool isPowerOfTwo(int n) {
