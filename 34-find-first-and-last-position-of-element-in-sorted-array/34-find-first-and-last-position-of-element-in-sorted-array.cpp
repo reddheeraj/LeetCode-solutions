@@ -1,3 +1,4 @@
+#pragma GCC optimize("O2")
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
