@@ -19,10 +19,6 @@ public:
                     nums[i] = nums[i] - small;   
                 }
             }
-            for (auto &i: nums) { 
-                cout<<i<<" ";
-            }
-            cout<<"\n";
             ans++;
         }
         return ans;
