@@ -9,6 +9,9 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+#pragma GCC optimize('O2')
+
 class Solution {
 public:
     void helper(TreeNode* root, vector<int> & ans){
