@@ -1,5 +1,4 @@
 #pragma GCC optimize('O2')
-#include<bits/stdc++.h>
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
