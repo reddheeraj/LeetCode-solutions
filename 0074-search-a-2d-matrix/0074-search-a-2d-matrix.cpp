@@ -1,3 +1,4 @@
+#pragma GCC optimize('O2')
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
