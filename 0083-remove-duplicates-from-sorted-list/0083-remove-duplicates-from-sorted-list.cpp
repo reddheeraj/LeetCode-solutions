@@ -8,6 +8,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+#pragma GCC optimize('O2')
+
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
