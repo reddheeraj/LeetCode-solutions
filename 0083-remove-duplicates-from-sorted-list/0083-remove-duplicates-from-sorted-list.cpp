@@ -21,6 +21,7 @@ public:
             if (nav->val == temp->val) {
                 nav->next = temp->next;
                 temp->next = NULL;
+                delete temp;
             }
             else {
                 nav = nav->next;
