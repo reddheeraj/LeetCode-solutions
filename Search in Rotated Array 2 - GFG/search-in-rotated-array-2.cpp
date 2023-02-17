@@ -7,7 +7,16 @@ class Solution {
   public:
     bool Search(int N, vector<int>& A, int Key) {
         // Code here
-        for(int i = 0; i < N; i++) if (A[i] == Key) return 1;
+        // for(int i = 0; i < N; i++) if (A[i] == Key) return 1;
+        // return 0;
+        sort(A.begin(), A.end());
+        int l = 0, r = N-1, m;
+        while(l <= r) {
+            m = (l+r)/2;
+            if (A[m] == Key) return 1;
+            else if (A[m] < Key) l = m+1;
+            else r = m-1;
+        }
         return 0;
     }
 };
