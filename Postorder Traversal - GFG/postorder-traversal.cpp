@@ -123,19 +123,48 @@ struct Node
     struct Node* right;
 }; */
 
-void helper(vector<int> &v, Node* ptr) {
-    if (ptr != NULL) {
-        helper(v, ptr->left);
-        helper(v, ptr->right);
-        v.push_back(ptr->data);
-    }
-}
+// void helper(vector<int> &v, Node* ptr) {
+//     if (ptr != NULL) {
+//         helper(v, ptr->left);
+//         helper(v, ptr->right);
+//         v.push_back(ptr->data);
+//     }
+// }
 
 //Function to return a list containing the postorder traversal of the tree.
 vector <int> postOrder(Node* root)
 {
   // Your code here
-  vector<int> v;
-  helper(v,root);
-  return v;
+  //2 stack
+//   vector<int> v;
+//   //helper(v,root);
+//   stack<Node*> st1, st2;
+//   Node* node = root;
+//   st1.push(root);
+//   while(!st1.empty()) {
+//       node = st1.top();
+//       st1.pop();
+//       st2.push(node);
+//       if (node->left != NULL) st1.push(node->left);
+//       if (node->right != NULL) st1.push(node->right);
+//   }
+//   while(!st2.empty()) {
+//       v.push_back(st2.top()->data);
+//       st2.pop();
+//   }
+//   return v;
+    //1 stack easy
+    
+    vector<int> v;
+    stack<Node*> st;
+    st.push(root);
+    while(!st.empty()) {
+        Node* temp = st.top();
+        st.pop();
+        v.push_back(temp->data);
+        if (temp->left) st.push(temp->left);
+        if (temp->right) st.push(temp->right);
+    }
+    reverse(v.begin(), v.end());
+    return v;
 }
