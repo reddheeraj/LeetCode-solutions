@@ -1,3 +1,5 @@
+#define pragma GCC("O2")
+
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
