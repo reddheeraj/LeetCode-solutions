@@ -1,11 +1,9 @@
+from collections import Counter
+
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        res = {}
-        for i in range(len(nums)):
-            if nums[i] not in res:
-                res[nums[i]] = 1
-            else:
-                res[nums[i]] += 1
-        for i in res:
-            if res[i]==1:
-                return i
+        res = Counter(nums)
+        print(res)
+        for item in res.items():
+            if item[1] == 1:
+                return item[0]
