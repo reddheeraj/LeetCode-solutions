@@ -6,9 +6,13 @@ class Solution:
         n = len(nums)
         k = k % n
         
-        ans = [0] * n
+        # ans = [0] * n
         
-        for i in range(n):
-            ans[(i + k) % n] = nums[i]
-        for i in range(n):
-            nums[i] = ans[i]
+        # for i in range(n):
+        #     ans[(i + k) % n] = nums[i]
+        # for i in range(n):
+        #     nums[i] = ans[i]
+        nums.reverse()
+        nums[:k] = reversed(nums[:k])
+        nums[k:] = reversed(nums[k:])
+        
