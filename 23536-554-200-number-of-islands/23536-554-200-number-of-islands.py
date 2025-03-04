@@ -5,7 +5,7 @@ class Solution:
             return 0
         
         rows, cols = len(grid), len(grid[0])
-        visit = set()
+        # visit = set()
         islands = 0
         def dfs(r,c):
             if r < 0 or r >= rows or c < 0 or c >= cols or grid[r][c] != '1':
@@ -20,7 +20,7 @@ class Solution:
 
         for r in range(rows):
             for c in range(cols):
-                if grid[r][c] == '1' and (r,c) not in visit:
+                if grid[r][c] == '1': # and (r,c) not in visit:
                     islands += 1
                     dfs(r,c)
 
