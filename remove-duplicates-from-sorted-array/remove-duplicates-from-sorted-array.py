@@ -2,7 +2,7 @@ class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         i = j = k = 0
         while True:
-            print(f"i = {i}, j = {j}, k = {k}")
+            # print(f"i = {i}, j = {j}, k = {k}")
             
             while nums[i] == nums[j]:
                 j += 1
