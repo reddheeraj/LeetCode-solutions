@@ -3,16 +3,15 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        n = len(nums)
-        k = k % n
+        k = k % len(nums)
         
-        # ans = [0] * n
+        def rev(left, right):
+            while left < right:
+                nums[left], nums[right] = nums[right], nums[left]
+                left += 1
+                right -= 1
         
-        # for i in range(n):
-        #     ans[(i + k) % n] = nums[i]
-        # for i in range(n):
-        #     nums[i] = ans[i]
-        nums.reverse()
-        nums[:k] = reversed(nums[:k])
-        nums[k:] = reversed(nums[k:])
+        rev(0, len(nums) - 1)
+        rev(0, k-1)
+        rev(k, len(nums) - 1)
         
