@@ -5,11 +5,9 @@ class Solution:
         """
         i = 0
         for j in range(len(nums)):
-            print("j = ", j)
             if nums[j] != 0:
-                nums[i], nums[j] = nums[j], nums[i]
+                if i != j:
+                    nums[i], nums[j] = nums[j], nums[i]
+                
                 i += 1
-            if nums[j] == 0:
-                j += 1
-            else:
-                j += 1
+        # print(nums)
