@@ -3,16 +3,14 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        top = 0
-        bottom = len(matrix)
+        m, n = len(matrix), len(matrix[0])
+        i, j = 0, m-1
+        while i < j:
+            matrix[i], matrix[j] = matrix[j], matrix[i]
+            i += 1
+            j -= 1
         
-        while top < bottom:
-            matrix[top], matrix[bottom - 1] = matrix[bottom - 1], matrix[top]
-            top += 1
-            bottom -= 1
         
-        m = len(matrix)
         for i in range(m):
-            for j in range(i+1, m):
+            for j in range(i+1, n):
                 matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
-        
