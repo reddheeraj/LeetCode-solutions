@@ -3,11 +3,8 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        start = 0
-        end = len(s) - 1
-        
-        while start < end:
-            s[start], s[end] = s[end], s[start]
-            start += 1
-            end -= 1
-        
+        j = len(s) - 1
+        for i in range(len(s)//2):
+            s[i], s[j] = s[j], s[i]
+            j -= 1
+        print(s)
