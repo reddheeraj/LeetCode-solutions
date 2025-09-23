@@ -1,19 +1,19 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        res1, res2 = {}, {}
-        
-        for i in s:
-            if i not in res1:
-                res1[i] = 1
+        a, b = {}, {}
+        for ch in s:
+            if ch in a:
+                a[ch] += 1
             else:
-                res1[i] += 1
-                
-        for i in t:
-            if i not in res2:
-                res2[i] = 1
-            else:
-                res2[i] += 1
+                a[ch] = 1
         
-        if res1 != res2:
+        for ch in t:
+            if ch in b:
+                b[ch] += 1
+            else:
+                b[ch] = 1
+        
+        if a == b:
+            return True
+        else:
             return False
-        return True
