@@ -26,6 +26,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | ------- |
 | [0011-container-with-most-water](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
+| [0647-palindromic-substrings](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -38,10 +39,12 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 |  |
 | ------- |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
+| [0647-palindromic-substrings](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
+| [0647-palindromic-substrings](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
 | ------- |
