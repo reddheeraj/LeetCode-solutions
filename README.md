@@ -7,6 +7,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -17,4 +18,12 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
