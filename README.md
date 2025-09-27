@@ -9,11 +9,13 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0001-two-sum](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 ## Union Find
 |  |
@@ -32,4 +34,20 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
