@@ -9,6 +9,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0001-two-sum](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 ## Hash Table
@@ -74,4 +75,8 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
