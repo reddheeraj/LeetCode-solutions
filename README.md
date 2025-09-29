@@ -8,6 +8,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | ------- |
 | [0001-two-sum](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0015-3sum) |
 | [0128-longest-consecutive-sequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 ## Hash Table
@@ -25,6 +26,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0647-palindromic-substrings](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
@@ -55,4 +57,8 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 |  |
 | ------- |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
