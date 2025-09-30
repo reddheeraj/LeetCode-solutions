@@ -11,6 +11,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0015-3sum](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 ## Hash Table
@@ -52,6 +53,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 ## Trie
@@ -71,6 +73,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
