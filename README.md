@@ -47,6 +47,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
@@ -86,4 +87,8 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
