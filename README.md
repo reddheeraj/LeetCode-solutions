@@ -16,6 +16,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0055-jump-game](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Stack
 |  |
 | ------- |
