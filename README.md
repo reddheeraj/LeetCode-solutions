@@ -18,6 +18,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0055-jump-game](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
@@ -99,6 +101,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
 | ------- |
