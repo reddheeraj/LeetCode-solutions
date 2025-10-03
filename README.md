@@ -69,6 +69,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | ------- |
 | [0053-maximum-subarray](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -123,4 +124,12 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
