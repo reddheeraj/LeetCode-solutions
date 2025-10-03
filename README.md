@@ -28,6 +28,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0128-longest-consecutive-sequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
+| [0424-longest-repeating-character-replacement](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Union Find
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0020-valid-parentheses](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
+| [0424-longest-repeating-character-replacement](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -119,4 +121,5 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
