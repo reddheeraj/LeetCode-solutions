@@ -14,6 +14,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0049-group-anagrams](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
