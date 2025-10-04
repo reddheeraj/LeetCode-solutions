@@ -20,6 +20,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0152-maximum-product-subarray](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0128-longest-consecutive-sequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
+| [0347-top-k-frequent-elements](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Union Find
 |  |
@@ -90,16 +92,19 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | ------- |
 | [0015-3sum](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -136,4 +141,16 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0062-unique-paths) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
