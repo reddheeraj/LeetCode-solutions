@@ -13,6 +13,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0039-combination-sum](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -153,4 +154,12 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
