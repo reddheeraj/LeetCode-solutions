@@ -22,6 +22,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0152-maximum-product-subarray](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0419-battleships-in-a-board) |
@@ -232,4 +233,8 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
