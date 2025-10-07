@@ -178,6 +178,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
@@ -185,17 +186,20 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0695-max-area-of-island) |
 ## Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
