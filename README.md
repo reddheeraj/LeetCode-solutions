@@ -185,6 +185,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0226-invert-binary-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0419-battleships-in-a-board](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0419-battleships-in-a-board) |
+| [0572-subtree-of-another-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
@@ -203,6 +204,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -212,9 +214,18 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
