@@ -16,6 +16,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0054-spiral-matrix](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
@@ -34,6 +35,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0001-two-sum](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
@@ -170,6 +172,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0695-max-area-of-island) |
