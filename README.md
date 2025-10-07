@@ -176,6 +176,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0695-max-area-of-island) |
@@ -188,9 +189,15 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
