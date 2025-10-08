@@ -81,6 +81,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0300-longest-increasing-subsequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/reddheeraj/LeetCode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
