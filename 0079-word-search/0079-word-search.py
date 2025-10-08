@@ -1,6 +1,12 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         
+        board_count = Counter(c for row in board for c in row)
+        word_count = Counter(word)
+        for w in word:
+            if word_count[w] > board_count[w]:
+                return False
+                
         k = 0
         row, col = len(board), len(board[0])
 
