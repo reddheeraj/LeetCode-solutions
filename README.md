@@ -80,6 +80,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0020-valid-parentheses](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
@@ -91,6 +92,7 @@ Collection of solutions to LeetCode questions - Created using [LeetHub](https://
 | [0055-jump-game](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/reddheeraj/LeetCode-solutions/tree/master/0198-house-robber) |
